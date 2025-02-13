@@ -1,0 +1,14 @@
+2025-Feb-12-12:21:48 : ETL Job Started
+2025-Feb-12-12:21:48 : Extract phase Started
+2025-Feb-12-12:21:49 : Extract phase Ended
+2025-Feb-12-12:21:49 : Transform phase Started
+2025-Feb-12-12:21:49 : Transform phase Ended
+2025-Feb-12-12:21:49 : Load phase Started
+2025-Feb-12-12:21:49 : Load phase Ended
+2025-Feb-12-12:21:49 : ETL Job Finished
+2025-Feb-12-12:21:49 : Query for the entire table Started
+2025-Feb-12-12:21:49 : Query for the entire table Ended
+2025-Feb-12-12:21:49 : Query for the average MC_GBP_Billion from all the banks Started
+2025-Feb-12-12:21:49 : Query for the average MC_GBP_Billion from all the banks Ended
+2025-Feb-12-12:21:49 : Query for the top 5 banks Started
+2025-Feb-12-12:21:49 : Query for the top 5 banks Ended
